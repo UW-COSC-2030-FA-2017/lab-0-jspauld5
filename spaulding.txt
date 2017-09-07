@@ -1,1 +1,5 @@
+Three Things Iv'e Learned Thus Far:
 
+1. Pointer "contents" is actually a memory location of the variable it's pointing to.
+2. Basic Git command line use 
+3. My professor's deepest darkest secret!
