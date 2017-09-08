@@ -3,3 +3,5 @@ Three Things Iv'e Learned Thus Far:
 1. Pointer "contents" is actually a memory location of the variable it's pointing to.
 2. Basic Git command line use 
 3. My professor's deepest darkest secret!
+
+I accidently did this on the wrong branch and don't know how to fix it so im making this edit on the right branch hopefully.
